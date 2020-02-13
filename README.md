@@ -2,7 +2,7 @@
 Create a new user and add sudo access
 
 
-useradd -g adm anuswadh 
+useradd anuswadh 
 
 sudo usermod -a -G adm anuswadh
 
